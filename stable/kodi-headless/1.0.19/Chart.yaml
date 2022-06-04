@@ -11,7 +11,7 @@ icon: https://truecharts.org/_static/img/appicons/kodi-headless.png
 keywords:
   - kodi-headless
 sources:
-  - https://hub.docker.com/r/linuxserver/kodi-headless
+  - https://hub.docker.com/r/matthuisman/kodi-headless
 dependencies:
 - name: common
   repository: https://library-charts.truecharts.org
